@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Meus números:
+
+<img src="https://github-readme-stats.vercel.app/api?username=mirraelly&show_icons=true&theme=radical&include_all_commits=true">
+
+<br>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mirra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mirra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
