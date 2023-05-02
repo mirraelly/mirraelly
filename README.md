@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## Some of my stats:
-
 <img src="https://github-readme-stats.vercel.app/api?username=mirraelly&show_icons=true&theme=radical&include_all_commits=true">
 
-<br>
+
+## Skill Set 📚
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mirra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,10 +30,7 @@ Here are some ideas to get you started:
   <img align="right" alt="Mirra-pic" height="150" style="border-radius:50px;" src="me-desenho.jpeg">
 </div>
 
-##
-
 ## Let's Connect 🤝
-
 <div> 
   <a href="https://instagram.com/mirraely__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mirraely" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
