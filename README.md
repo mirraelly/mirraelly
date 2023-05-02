@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Meus números:
+## Some of my stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=mirraelly&show_icons=true&theme=radical&include_all_commits=true">
 
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 </div>
 
 ##
+
+## Let's Connect 🤝
 
 <div> 
   <a href="https://instagram.com/mirraely__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
