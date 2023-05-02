@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Mirraely. 👋
 
 <!--
 **mirraelly/mirraelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mirraely" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/mirraely?trk=profile-badge">Mirraely M.</a></div>
+              
