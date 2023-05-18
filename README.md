@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 </div>
 
 ## Some of my stats:
-<img src="https://github-readme-stats.vercel.app/api?username=mirraelly&show_icons=true&theme=radical&include_all_commits=true">
+<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mirraelly&show_icons=true&theme=radical&include_all_commits=true">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirraelly&layout=compact&langs_count=7&theme=midnight-purple"/>
+ </div>
 
 ## Let's Connect 🤝
 <div> 
