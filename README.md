@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirraelly&layout=compact&langs_count=7&theme=midnight-purple"/>
  </div>
 
-![Snake animation](https://github.com)
+![Snake animation](https://raw.githubusercontent.com/mirraelly/mirraelly/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 ## Let's Connect 🤝
 <div> 
