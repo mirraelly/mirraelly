@@ -35,14 +35,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss
 
 ## Some of my stats:
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mirraelly&show_icons=true&theme=midnight-purple&include_all_commits=true">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirraelly&layout=compact&langs_count=7&theme=midnight-purple"/>
- </div>
-
- teste
- <div align="center">
-<img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=mirraelly&show_icons=true&theme=midnight-purple"/>
-<img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mirraelly&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=mirraelly&show_icons=true&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/ username=mirraelly&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/mirraelly/mirraelly/refs/heads/output/github-contribution-grid-snake-dark.svg)
